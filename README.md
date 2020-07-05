@@ -9,6 +9,6 @@
 
 👉[What is Functional Programming](https://youtu.be/oMOAveE15Wc)
 
-👉[Lambda Expression]
+👉[Lambda Expression](https://youtu.be/dnjL3ueDDQI)
 
 👉[Method Reference]
