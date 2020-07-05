@@ -5,7 +5,7 @@
 
 👉 [Secure Random Number Generator | OTP generator](https://youtu.be/JuX7lQg6mYA)
 
-👉 [All about functional interface] (https://youtu.be/S1wlc1DqGb4)
+👉 [All about functional interface](https://youtu.be/S1wlc1DqGb4)
 
 👉[What is Functional Programming](https://youtu.be/oMOAveE15Wc)
 
