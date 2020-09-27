@@ -12,3 +12,39 @@
 👉[Lambda Expression](https://youtu.be/dnjL3ueDDQI)
 
 👉[Method Reference](https://youtu.be/YjCeQsVVG6k)
+
+👉[Java Watch Service API]
+
+
+## Multithreading In Java
+
+👉 What is multithreading | Concurency | 
+
+👉 Creating and running Threads in java
+
+👉 Producer Consumer using wait/notify
+
+👉 Producer Consumer using Locks
+
+👉 Understanding Race Condition
+
+👉 Understanding Deadlock
+
+👉 Understanding starvation
+
+👉 Threadsafe Singleton
+
+👉 Concurent applications using Barriers & Latches
+
+👉 What is Semaphore
+
+👉 Understading casing and atomic variables
+
+👉 Read-Write operations in multicore CPU
+
+👉 Callable
+
+👉 Future
+
+👉 Executor patterns
+
