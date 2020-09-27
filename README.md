@@ -1,5 +1,5 @@
 # Java-Tech-Shots
- Java quick topics | short video | Java interview guide 
+ All Java related topics | explanation with video | Java interview guide | Latest java updates
  
  ## Below are the list of topics
 
