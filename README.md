@@ -13,8 +13,6 @@
 
 👉[Method Reference](https://youtu.be/YjCeQsVVG6k)
 
-👉How to traverse all the sub folders/files of given directory
-
 👉[Java Watch Service API]
 
 
