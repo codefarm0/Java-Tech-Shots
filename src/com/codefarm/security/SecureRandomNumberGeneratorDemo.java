@@ -1,4 +1,4 @@
-package com.greenlearner.security;
+package com.codefarm.security;
 
 import java.security.NoSuchAlgorithmException;
 import java.security.SecureRandom;

@@ -1,13 +1,13 @@
-package com.greenlearner.threads.virtual.bigfile;
+package com.codefarm.threads.virtual.bigfile;
 
 import java.io.*;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class VirtualThreadExampleBigFileProcessing {
+public class NonVirtualThreadExampleBigFileProcessing {
 
     public static void main(String[] args) {
-        ExecutorService executor = Executors.newVirtualThreadPerTaskExecutor(); // use virtual threads
+        ExecutorService executor = Executors.newFixedThreadPool(10); // use virtual threads
 
         long start = System.currentTimeMillis(); // start timing
 

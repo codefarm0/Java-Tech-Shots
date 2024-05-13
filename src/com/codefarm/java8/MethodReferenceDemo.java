@@ -1,4 +1,4 @@
-package com.greenlearner.java8;
+package com.codefarm.java8;
 
 import java.util.Arrays;
 import java.util.Collections;

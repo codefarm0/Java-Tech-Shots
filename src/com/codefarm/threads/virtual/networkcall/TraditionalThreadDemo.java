@@ -1,17 +1,18 @@
-package com.greenlearner.threads.virtual.networkcall;
+package com.codefarm.threads.virtual.networkcall;
 
 import java.net.URL;
 import java.net.URLConnection;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-// 9039ms, 7662ms, 7688ms
-public class VirtualThreadDemo {
+//13831ms, 13330ms - cached
+//17800ms, 10135ms
+public class TraditionalThreadDemo {
     
     public static void main(String[] args) throws Exception {
         
         long start = System.currentTimeMillis();
-        ExecutorService executorService = Executors.newVirtualThreadPerTaskExecutor();
+        ExecutorService executorService = Executors.newFixedThreadPool(1000);
         
         for (int i = 0; i < 1000; i++) {
             int finalI = i;
